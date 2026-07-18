@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>簡単なページ</title>
+</head>
+<body>
+
+    <h1>ようこそ！</h1>
+    <p>これはHTMLを使って作成した、とてもシンプルな文章表示のプログラムです。</p>
+
+</body>
+</html>
